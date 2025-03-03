@@ -8,8 +8,13 @@ Understanding the importance of efficient cooling, I integrated a reliable cooli
 After successfully assembling the hardware, I installed the latest operating system and drivers, fine-tuning settings to further enhance gaming performance. This project not only allowed me to apply my IT expertise but also deepened my understanding of hardware interactions, resulting in a personalized gaming rig that delivers exceptional performance and is primed for future advancements.
 The specs are as follows: 
 CPU - AMD Ryzen 7 5800x 8-Core Processor
+
 GPU - NVIDIA RTX 3070
+
 Memory - 32GB DDR4
+
 PSU - 750 Watts, 80 Plus Gold
+
 Cooling - NZXT Kraken Z53 RGB 240mm
+
 Storage - 1TB SSD

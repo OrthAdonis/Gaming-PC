@@ -9,7 +9,7 @@ After successfully assembling the hardware, I installed the latest operating sys
 The specs are as follows: 
 CPU - AMD Ryzen 7 5800x 8-Core Processor
 
-GPU - NVIDIA RTX 3070
+GPU - NVIDIA RTX 3060
 
 Memory - 32GB DDR4
 
@@ -24,11 +24,13 @@ Storage - 1TB SSD
 <p align="center">
 Parts: <br/>
 <img src=https://imgur.com/jfAGzXu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src=https://imgur.com/jfAGzXu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br />
+  GPU - CPU - AMD Ryzen 7 5800x 8-Core Processor: <br/>
+<img src=https://imgur.com/KmS04yU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+GPU - NVIDIA RTX 3060:  <br/>
+<img src="https://imgur.com/yky9or0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>

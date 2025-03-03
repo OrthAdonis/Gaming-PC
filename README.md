@@ -50,5 +50,5 @@ Storage - 1TB SSD:  <br/>
 <br />
 <br />
   <h2>PC Inside:</h2>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+  <br />
+<img src="https://imgur.com/OPxbUqQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
